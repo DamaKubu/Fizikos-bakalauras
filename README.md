@@ -2,7 +2,7 @@
 
 
 
-Plakatas pristatytas Open Readings konferencijoje (HurstSelfConsistency)
+Plakatas pristatytas Open Readings konferencijoje (HurstSelfConsistency):
 https://www.overleaf.com/read/gstndxfbtgfq#42dc08
 
 Skaidrės ir bakalauro Latex failas:
